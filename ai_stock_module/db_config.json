@@ -1,0 +1,7 @@
+{
+    "host": "localhost",
+    "user": "root",
+    "password": "",
+    "database": "db_laundry",
+    "port": 3307
+}
